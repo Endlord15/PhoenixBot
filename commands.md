@@ -1,6 +1,6 @@
 Commands:
 
->info
+/info
 Sends link to the Changelog of the bot!
 
 /ping
