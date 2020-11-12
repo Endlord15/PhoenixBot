@@ -1,5 +1,5 @@
 # BluePhoenix
-Changelog for my bot, BluePhoenix, coded for TTV_BLUE_PHOENIX!
+Changelog for my bot, PhoenixBot, coded for TTV_BLUE_PHOENIX!
 
 Changelog:
 
