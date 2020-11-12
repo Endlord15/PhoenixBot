@@ -1,4 +1,4 @@
-# BluePhoenix
+# PhoenixBot
 Changelog for my bot, PhoenixBot, coded for TTV_BLUE_PHOENIX!
 
 Changelog:
